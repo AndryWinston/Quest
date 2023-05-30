@@ -9,28 +9,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="065d1d13-a38c-42a2-8490-fb8ad6a0adb2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/Quest_war_exploded.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/webContexts.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/Quest/GameServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/Quest/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Servlets/GameServletTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/Answers/DeadEnd/Anger.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/Answers/DeadEnd/Beat.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/Answers/DeadEnd/Nothing.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/Answers/DeadEnd/Scream.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/Answers/DeadEnd/error.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/Answers/GoodEnd/Compare.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/Answers/GoodEnd/FriendShip.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/question1.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/question2.jsp" afterDir="false" />
+    <list default="true" id="065d1d13-a38c-42a2-8490-fb8ad6a0adb2" name="Changes" comment="First Commit">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -208,10 +188,23 @@
       <workItem from="1685111323996" duration="4568000" />
       <workItem from="1685197354845" duration="5549000" />
       <workItem from="1685205620886" duration="3932000" />
+      <workItem from="1685443891020" duration="1361000" />
     </task>
+    <task id="LOCAL-00001" summary="First Commit">
+      <created>1685444048569</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1685444048569</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="First Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="First Commit" />
   </component>
 </project>
